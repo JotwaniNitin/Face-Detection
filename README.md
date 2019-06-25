@@ -5,7 +5,6 @@ The Face Detection project will be a boon in classrooms by saving time in rollca
 
 ### FaceRek Attendance
 The website -- FaceRek Attendance acts an interactive web app for the teachers and students. At the present moment the website has the minimal functonalities of the home, about, login/register page with a dashboard for students. 
-<br><br>
 
 ### Technicalties
 The dashboard uses the ***AWS Rekognition API*** for training and test for facial recognition. It also uses ***AWS Polly*** for audio features. The dashboard is presently only for collecting and checking the facial pictures. 
@@ -37,7 +36,14 @@ As far as the ***added functionalities*** are concerned, on signing in the websi
 2. Launch terminal and go to working directory.
 3. Enable the API by running the command below on terminal. The key and secret key are linked to my personal account. 
 > export AWS_KEY=AKIARIEUVDB2EMS3DWU2
+
 > export AWS_SECRET=jL4rCO7qud+eIByZwLrItiCXnnh8cvKNxPWw2yTj
 4. Now from the downloaded zip, extract all files and run the index.html. Explore the site on your own will. 
+
+### Further Work
+
+The website is needs to be integrated to the database for a full interctive experience. Given that I had started web development from scratch to only pursue this internship, I am studying to link the database in the most efficient manner yet. I will pursue and finish this project even after this submission. <br><br>
+
+It was an amazing experience working on this project and I happened to come across a lot of new things. The idea is a brilliant one and once implemented successfully will be another step forward in digitalisation. 
 
    
